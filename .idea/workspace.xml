@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e479bfa-9f95-4119-b06a-63b23287fbf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationClass/AutomationClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationClass/src/EmailToFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationLocator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationLocator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationLocator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationLocator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationLocator/AutomationLocator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationpractice/Automationpractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassHomework/ClassHomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassHomework3/ClassHomework3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NopCommercePOM/NopCommercePOM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NopCommercePOM/src/main/java/NopCommercePageObjectModel/BookCategoryShoppingCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NopCommercePOM/src/main/java/NopCommercePageObjectModel/RegisterUserReferAProductToFriendByEmailPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NopCommercePOM/src/main/java/NopCommercePageObjectModel/RegisterUserReferAProductToFriendByEmailResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NopCommercePOM/src/main/java/NopCommercePageObjectModel/UnRegisterUserReferAProductToFriendByEmailResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrangeHRMHybrid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xyza/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xyza/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xyza/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xyza/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xyza/Xyza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xyza/src/Forloopere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xyza/src/vggf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/CommonElementInTwoStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/DuplicateElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/FindIndexOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/InsertElementSpecificPositionInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/NumberOfWord_Space.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/ReverseElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/SortNumericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/SortStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/SpecificValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/SumOfElementOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/SumOfEvenOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/SumOfFiveDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/TestEqualityOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/TotalNumberof_a_InEnteredString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayloophomework/src/Two_D_Array_TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forlooexercise/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forlooexercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forlooexercise/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forlooexercise/src/ArrayUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forlooexercise/src/ForLooExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forlooexercise/src/com/company/fhdsghfds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forlooexercise/src/com/company/sumeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojava1/hellojava1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/ifelsehomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/AgeEligibilty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/AlphabetNumberSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/CityName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/ConverUppercaseLowercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/GrossSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/InterChangeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/MathematicalSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/OddEvenTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/PassFail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/PostiveNegativeZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/ResultPercentageGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/SalesCommission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/VowelConsonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/WeekdayByNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelsehomework/src/com/company/SalesCommission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/PersonalDetail.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OrangeHRM/BrowserSelector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="102" column="38" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/OrangeHRM/Hooks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="43" column="136" selection-start-line="43" selection-start-column="136" selection-end-line="43" selection-end-column="136" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OrangeHRM/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OrangeHRM/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="160" column="62" selection-start-line="160" selection-start-column="62" selection-end-line="160" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Resouces/Features/orangeHRMLogin.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OrangeHRM/DashBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/OrangeHRM/RunTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/embedded0.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>w</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\DEV\OrangeHRMHybrid\src\main\java\OrangeHRM</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/OrangeHRM/BasePage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/OrangeHRM/LoadProps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OrangeHRM/homepage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OrangeHRM/MystepDef.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OrangeHRM/BrowserSelector.java" />
+        <option value="$PROJECT_DIR$/src/test/Resouces/TestData/TestDataConfig.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/OrangeHRM/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OrangeHRM/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/Resouces/Features/orangeHRMLogin.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/OrangeHRM/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OrangeHRM/DashBoard.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OrangeHRM/RunTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="73" />
+    <option name="width" value="1276" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resouces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resouces" type="462c0819:PsiDirectoryNode" />
+              <item name="BrowserDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resouces" type="462c0819:PsiDirectoryNode" />
+              <item name="Features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resouces" type="462c0819:PsiDirectoryNode" />
+              <item name="TestData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumber-html-report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="Destination" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRMHybrid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRMHybrid" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resouces/BrowserDriver" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\OrangeHRMHybrid\src\test\Resouces\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RunTest">
+    <configuration name="RunTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRMHybrid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrangeHRM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrangeHRM" />
+      <option name="MAIN_CLASS_NAME" value="OrangeHRM.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRMHybrid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrangeHRM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrangeHRM" />
+      <option name="MAIN_CLASS_NAME" value="OrangeHRM.RunTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=&quot;firefox&quot; -Dsauce=false" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRMHybrid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrangeHRM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrangeHRM" />
+      <option name="MAIN_CLASS_NAME" value="OrangeHRM.RunTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=firefox" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRMHybrid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrangeHRM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrangeHRM" />
+      <option name="MAIN_CLASS_NAME" value="OrangeHRM.RunTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=firefox -Dsauce=true" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RunTest" />
+      <item itemvalue="JUnit.RunTest (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+        <item itemvalue="JUnit.RunTest (1)" />
+        <item itemvalue="JUnit.RunTest" />
+        <item itemvalue="JUnit.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e479bfa-9f95-4119-b06a-63b23287fbf1" name="Default Changelist" comment="" />
+      <created>1571569248307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571569248307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RunTest_(1) - 2019.10.23 at 22h 17m 28s.xml">
+      <configuration name="RunTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.10.23 at 22h 17m 50s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.10.23 at 22h 26m 17s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.10.23 at 22h 27m 52s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.10.23 at 22h 28m 45s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.10.23 at 22h 35m 31s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.10.23 at 22h 38m 06s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.10.23 at 23h 00m 40s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.10.23 at 23h 06m 52s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.10.23 at 23h 10m 09s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26172465" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24962178" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26626325" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24962178" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/OrangeHRM/LoadProps.java</url>
+          <line>11</line>
+          <properties class="OrangeHRM.LoadProps" method="getProperty">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/OrangeHRM/BaseTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/OrangeHRM/TestSuit.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/embedded3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/OrangeHRM/BasePage.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/screenshots/User should not able to login with invalid credentials and see error message2019_10_22__11_04_11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/screenshots/User should not able to login with invalid credentials and see error message2019_10_22__11_04_18.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/embedded5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/screenshots/User should not able to login with invalid credentials and see error message2019_10_22__11_04_04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/embedded1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/embedded2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/embedded4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OrangeHRM/LoadProps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrangeHRMHybrid.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/formatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3633" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/report.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9312" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/report.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/formatter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/embedded3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/embedded5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/embedded4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/embedded2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/embedded1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/screenshots/User should not able to login with invalid credentials and see error message2019_10_22__11_03_54.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/screenshots/User should able to login successfully with valid username and valid password and see success message2019_10_23__10_41_28.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/screenshots/User should able to login successfully with valid username and valid password and see success message2019_10_23__09_49_09.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resouces/TestData/TestDataConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OrangeHRM/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OrangeHRM/MystepDef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OrangeHRM/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="160" column="62" selection-start-line="160" selection-start-column="62" selection-end-line="160" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OrangeHRM/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resouces/Features/orangeHRMLogin.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/embedded0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OrangeHRM/BrowserSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="102" column="38" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nullUser should able to login successfully with valid username and valid password and see success message2019_10_23__10_37_53.png2019_10_23__10_37_53.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nullUser should able to login successfully with valid username and valid password and see success message2019_10_23__10_35_17.png2019_10_23__10_35_17.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/embedded0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OrangeHRM/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="43" column="136" selection-start-line="43" selection-start-column="136" selection-end-line="43" selection-end-column="136" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Destination/screenshotsUser should able to login successfully with valid username and valid password and see success message2019_10_23__11_06_38.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OrangeHRM/DashBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OrangeHRM/RunTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
